@@ -5,4 +5,4 @@ My Computational Geometry algorithms API. Visit [this page](https://adityachivu.
 
     git clone https://github.com/adityachivu/cgalgo.git
   
-Write all your programs with reference to $ROOT/bin directory.
+Write all your programs with reference to `$ROOT/bin` directory.
